@@ -16,7 +16,7 @@ public class Main {
         // LOAD ALL DATA AT STARTUP
         FileHandler.loadAllData(vehicleMgr, serviceMgr, logMgr, inventoryMgr, routeMgr);
 
-        System.out.println("🚗 Welcome to Smart Vehicle Management System (Final Build)");
+        System.out.println("🚗 Welcome to Smart Vehicle Management System");
 
         while (true) {
             System.out.println("\n=== MAIN MENU ===");
