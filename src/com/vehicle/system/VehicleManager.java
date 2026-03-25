@@ -1,13 +1,17 @@
 package com.vehicle.system;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class VehicleManager {
     // This HashMap ACTS as our Hash Table
     // Key = Registration Number (String), Value = Vehicle Object
     private Map<String, Vehicle> vehicleDatabase;
-
+    public List<Vehicle> getAllVehicles() {
+        return new ArrayList<>(vehicleDatabase.values());
+    }
     public VehicleManager() {
         this.vehicleDatabase = new HashMap<>();
     }
