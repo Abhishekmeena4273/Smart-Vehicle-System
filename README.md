@@ -2,11 +2,6 @@
 
 A comprehensive backend system for managing vehicle fleets, services, inventory, and routes using efficient Data Structures.
 
-## 👤 Author
-- **Name:** [Your Name]
-- **Student ID:** [Your ID]
-- **Role:** Full Stack Developer (Solo Capstone)
-
 ## 🛠️ Tech Stack
 - **Language:** Java
 - **Interface:** CLI (Command Line Interface)
