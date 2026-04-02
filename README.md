@@ -19,7 +19,7 @@ A comprehensive backend system for managing vehicle fleets, services, inventory,
 ## 🚀 How to Run
 1. Clone the repository.
 2. Open in VS Code.
-3. Run `src/com/vehicle/system/Main.java`.
+3. Run `RunProject.bat`.
 
 ## 📂 Features
 - Automatic Audit Logging
